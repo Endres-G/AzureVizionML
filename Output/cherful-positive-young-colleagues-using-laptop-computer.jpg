@@ -1,0 +1,84 @@
+{
+  "apim-request-id": "6042a876-aa10-409a-b5ea-357521e593f7",
+  "content-length": "588",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 5760,
+    "height": 3840
+  },
+  "objectsResult": {
+    "values": [
+      {
+        "boundingBox": {
+          "x": 1928,
+          "y": 207,
+          "w": 1674,
+          "h": 2777
+        },
+        "tags": [
+          {
+            "name": "person",
+            "confidence": 0.909
+          }
+        ]
+      },
+      {
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 1300,
+          "h": 3780
+        },
+        "tags": [
+          {
+            "name": "person",
+            "confidence": 0.829
+          }
+        ]
+      },
+      {
+        "boundingBox": {
+          "x": 777,
+          "y": 592,
+          "w": 1809,
+          "h": 2647
+        },
+        "tags": [
+          {
+            "name": "person",
+            "confidence": 0.875
+          }
+        ]
+      },
+      {
+        "boundingBox": {
+          "x": 3272,
+          "y": 751,
+          "w": 2334,
+          "h": 2366
+        },
+        "tags": [
+          {
+            "name": "person",
+            "confidence": 0.869
+          }
+        ]
+      },
+      {
+        "boundingBox": {
+          "x": 2623,
+          "y": 2301,
+          "w": 2923,
+          "h": 1453
+        },
+        "tags": [
+          {
+            "name": "Laptop",
+            "confidence": 0.541
+          }
+        ]
+      }
+    ]
+  }
+}
